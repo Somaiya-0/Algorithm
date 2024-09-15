@@ -5,8 +5,8 @@ Welcome to the Algorithm Repository! This repository contains various algorithms
 ## Algorithms Included
 
 - **Sorting Algorithms:**
-  - Bubble Sort (`bubblesort.cpp`, `bubblesort.py`)
-  - Quick Sort (`quicksort.cpp`, `quicksort.py`)
+  - Bubble Sort (`Bubble_Sort.cpp`, `Bubble_Sort.py`)
+  - Quick Sort (`Quick_Sort.cpp`, `Quick_Sort.py`)
 
 ## Getting Started
 
