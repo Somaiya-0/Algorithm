@@ -1,6 +1,8 @@
+#Quick Sort Algrorithm
 def quick_sort(arr):
     if len(arr) <= 1:
         return arr
+    # Create partitions
     pivot = arr[len(arr) // 2]
     left = []
     right = []
